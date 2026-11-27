@@ -1,1 +1,1 @@
-Amazing studio
+Amazing studio with Framer
