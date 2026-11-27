@@ -1,1 +1,1 @@
-Amazing studio with Framer, Next JS
+Amazing studio with Framer
